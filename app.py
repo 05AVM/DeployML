@@ -6,6 +6,7 @@ import pickle
 import pandas as pd
 import numpy as np
 from PIL import Image
+import sklearn
 #from sklearn.feature_extraction.text import TfidfVectorizer 
 
 #loading the model
